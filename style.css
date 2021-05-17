@@ -1,0 +1,165 @@
+/* cursor blinking*/
+
+body {
+}
+
+p,
+h1,
+h4,
+h5 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 2em;
+}
+
+.wcid-icons,
+.htgit-icons {
+  text-align: center;
+}
+
+.display-4 {
+  font-family: "Poppins";
+  font-weight: normal;
+  font-size: 2em%;
+}
+h4 {
+  font-family: ;
+}
+.display-5 {
+  font-family: "Poppins";
+  font-size: 1.5em%;
+  font-weight: normal;
+  color: #2e3d48;
+}
+
+img {
+  /* border-radius: 50%; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10em;
+  
+}
+
+ #dp{
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10em;
+}
+
+/* icon colourizing*/
+.fa-html5 {
+  color: rgb(211, 77, 28);
+}
+
+.fa-html5:hover {
+  transform: scale(1.1);
+}
+
+.fa-css3-alt {
+  color: rgb(34, 125, 230);
+}
+
+.fa-css3-alt:hover {
+  color: rgb(34, 125, 230);
+  transform: scale(1.1);
+}
+
+.fa-bootstrap {
+  color: rgb(100, 17, 179);
+}
+
+.fa-bootstrap:hover {
+  color: rgb(100, 17, 179);
+  transform: scale(1.1);
+}
+
+.fa-js-square {
+  color: rgb(207, 204, 33);
+}
+
+.fa-js-square:hover {
+  color: rgb(207, 204, 33);
+  transform: scale(1.1);
+}
+
+.fa-linkedin {
+  color: rgb(33, 100, 224);
+}
+
+.fa-linkedin:hover {
+  color: rgb(33, 100, 224);
+  transform: scale(1.1);
+}
+
+.fa-github-square {
+  color: rgb(0, 0, 0);
+}
+
+.fa-github-square:hover {
+  color: rgb(0, 0, 0);
+  transform: scale(1.1);
+}
+
+.fa-codepen {
+  color: rgb(0, 0, 0);
+}
+.fa-codepen:hover {
+  transform: scale(1.1);
+}
+
+.fa-stack-overflow {
+  color: rgb(202, 115, 16);
+}
+.fa-stack-overflow:hover {
+  transform: scale(1.1);
+}
+
+.wcid-icons {
+  font-size: 5em;
+}
+.htgit-icons {
+  font-size: 5em;
+}
+
+/* Form Color Change */
+.form-control {
+  background: transparent;
+  border: transparent;
+}
+
+.form-control:focus {
+  background: transparent;
+  border: transparent;
+}
+.contact a {
+  color: #2e3d48;
+}
+/* .whid .row {
+  display: none;
+} */
+.contact .form-group {
+  display: none;
+}
+.wii a {
+  color: #2e3d48;
+  text-decoration-style: dotted;
+}
+
+.fp-tableCell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p,
+h1,
+h4,
+h5 {
+  color: rgb(41, 38, 38);
+}
